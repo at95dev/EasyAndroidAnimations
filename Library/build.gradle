@@ -10,6 +10,8 @@ buildscript {
 
 apply plugin: 'com.android.library'
 apply plugin: 'android-maven'
+group='at95.dev'
+version='1.0'
 
 android {
     compileSdkVersion 21
